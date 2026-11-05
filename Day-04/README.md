@@ -1,4 +1,4 @@
-# ALIF ALGORITHM SQA TRAINEESHIP – DAY 04
+# SQA TRAINEESHIP – DAY 04
 
 ## Mobile App Testing – Test Levels & Test Types
 

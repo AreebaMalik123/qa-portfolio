@@ -112,15 +112,6 @@ Screenshots were captured during the testing sessions.
 - Test charters
 - Time-boxed testing sessions
 
-## Folder Structure
-
-```text
-day-06/
-├── README.md
-├── SQA_Day_06_Task.xlsx
-└── screenshots/
-    ├── Session-01/
-    └── Session-02/
 ```
 
 ## Conclusion
